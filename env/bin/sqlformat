@@ -1,4 +1,4 @@
-#!/Users/johnsterlind/Module1_Project/project_name/env/bin/python3
+#!/Users/johnsterlind/Module1_Project/testdjango/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
